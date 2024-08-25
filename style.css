@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+  
+  
+}
+.one{
+    text-align: center;
+   
+  
+ padding: 70px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.two{
+    text-align: center;
+   
+
+    
+}
+form{
+    margin: auto;
+   width: 400px;
+   height: 500px;
+    position: relative;
+    top: 50px;
+    
+    
+}
+h1{
+   position: relative;
+   bottom: 30px;
+    padding-bottom: 10px;
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+.text1{
+    padding-bottom: 10px;
+   
+}
+input:focus{
+    outline: none;
+}
+input{
+    text-align: center;
+    padding: 5px 40px;
+    background-color: #f1f4f7;
+    border: 1px solid rgba(100, 100, 111, 0.2);
+    border-radius: 5px;
+}
+.text1 button{
+   position: relative;
+   top: 9px;
+    padding: 2px 110px;
+    background-color: #53bdeb;
+   border: 1px solid #53bdeb;
+   border-radius: 5px;
+   cursor: pointer;
+
+}
+.text1 a{
+    text-decoration: none;
+    color:rgb(53, 53, 150);
+}
+.text1 .or{
+    position: relative;
+    top: 20px;
+}
+.a-tag{
+    position: relative;
+    top: 20px;
+}
+.fyp{
+position: relative;
+top: 35px;
+}
+.text2{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: relative;
+    top: 30px;
+   
+}
+.text2 p{
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+}
+
+.text3 .imge{
+    display: flex;
+    position: relative;
+    top: 30px;
+    width: 200px;
+    text-align: center;
+
+}
+.he{
+    position: relative;
+    left: 110px;
+    border-radius: 5px;
+
+}
+.hi{
+    position: relative;
+    left: 60px;
+    border-radius: 5px;
+}
